@@ -4,7 +4,11 @@
 
 # 文字类
 
-## ChatGPT [openai.com](https://openai.com)
+## ChatGPT 
+
+[openai.com](https://openai.com)
+
+使用ChatGPT的具体案例，参阅 [TiwenTi.Chat](https://tiwenti.chat)
 
 # 图像类
 
@@ -20,3 +24,5 @@ SD的一个低成本实现案例：[https://huggingface.co/spaces/Dao3/Dreamlike
 # 视频类
 
 ## D-id 
+
+[Studio.D-ID.com](https://studio.d-id.com)
